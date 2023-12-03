@@ -1,0 +1,11 @@
+.order {
+    min-height: 400px;
+}
+
+.table-order {
+    font-size: 18px;
+}
+
+.table-order tr th {
+    min-width: 300px;
+}
